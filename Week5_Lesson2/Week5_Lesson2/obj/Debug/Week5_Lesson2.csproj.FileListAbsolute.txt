@@ -1,0 +1,8 @@
+C:\Users\louis\Desktop\InfoIrlande\C#\Week5_Lesson2\Week5_Lesson2\bin\Debug\Week5_Lesson2.exe.config
+C:\Users\louis\Desktop\InfoIrlande\C#\Week5_Lesson2\Week5_Lesson2\bin\Debug\Week5_Lesson2.exe
+C:\Users\louis\Desktop\InfoIrlande\C#\Week5_Lesson2\Week5_Lesson2\bin\Debug\Week5_Lesson2.pdb
+C:\Users\louis\Desktop\InfoIrlande\C#\Week5_Lesson2\Week5_Lesson2\obj\Debug\Week5_Lesson2.csproj.AssemblyReference.cache
+C:\Users\louis\Desktop\InfoIrlande\C#\Week5_Lesson2\Week5_Lesson2\obj\Debug\Week5_Lesson2.csproj.SuggestedBindingRedirects.cache
+C:\Users\louis\Desktop\InfoIrlande\C#\Week5_Lesson2\Week5_Lesson2\obj\Debug\Week5_Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\InfoIrlande\C#\Week5_Lesson2\Week5_Lesson2\obj\Debug\Week5_Lesson2.exe
+C:\Users\louis\Desktop\InfoIrlande\C#\Week5_Lesson2\Week5_Lesson2\obj\Debug\Week5_Lesson2.pdb
